@@ -117,7 +117,7 @@
       border-radius: 3px;
     }
     
-    /* Banner Section */
+    
     /* Banner Section */
 .banner {
   position: relative;
@@ -337,10 +337,10 @@
       letter-spacing: 1px;
     }
     
-    /* Why Choose Section */
+    /*  Choose Section */
     .why-choose {
       max-width: 1200px;
-      margin: 80px auto;
+      margin: 81gpx auto;
       padding: 0 20px;
     }
     
